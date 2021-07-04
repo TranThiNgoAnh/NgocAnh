@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Giới thiệu &#8211; NA Cosmetic</title>
+	<atom:link href="http://localhost/wp1/category/gioi-thieu/feed/" rel="self" type="application/rss+xml" />
+	<link>https://tranthingoanh.github.io/NgocAnh</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Sun, 04 Jul 2021 03:18:00 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>GIỚI THIỆU</title>
+		<link>https://tranthingoanh.github.io/NgocAnh/2021/07/04/gioi-thieu/</link>
+					<comments>https://tranthingoanh.github.io/NgocAnh/2021/07/04/gioi-thieu/#respond</comments>
+		
+		<dc:creator><![CDATA[ngocanh]]></dc:creator>
+		<pubDate>Sun, 04 Jul 2021 03:18:00 +0000</pubDate>
+				<category><![CDATA[Giới thiệu]]></category>
+		<guid isPermaLink="false">https://tranthingoanh.github.io/NgocAnh/?p=103</guid>
+
+					<description><![CDATA[🔹 ,Ngọc Anh Cosmetics được chính thức đưa vào hoạt động ngày 13/11/2017, đến nay đã trở thành một trong những cửa hàng mỹ phẩm được các bạn trẻ yêu thích nhất. 🔹 ,Ngọc Anh Cosmetics chuyên phân phối sỉ và lẻ các sản phẩm mỹ phẩm đến từ Hàn, Nhật, Mỹ,&#8230; Với sự đảm bảo về [...]]]></description>
+		
+					<wfw:commentRss>https://tranthingoanh.github.io/NgocAnh/2021/07/04/gioi-thieu/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Chưa phân loại &#8211; NA Cosmetic</title>
+	<atom:link href="http://localhost/wp1/category/khong-phan-loai/feed/" rel="self" type="application/rss+xml" />
+	<link>https://tranthingoanh.github.io/NgocAnh</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Sun, 04 Jul 2021 16:32:53 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Mỹ phẩm ohui chính hãng</title>
+		<link>https://tranthingoanh.github.io/NgocAnh/2021/07/04/my-pham-ohui-chinh-hang/</link>
+					<comments>https://tranthingoanh.github.io/NgocAnh/2021/07/04/my-pham-ohui-chinh-hang/#respond</comments>
+		
+		<dc:creator><![CDATA[ngocanh]]></dc:creator>
+		<pubDate>Sun, 04 Jul 2021 16:32:53 +0000</pubDate>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<guid isPermaLink="false">https://tranthingoanh.github.io/NgocAnh/?p=235</guid>
+
+					<description><![CDATA[Bên cạnh thương hiệu mỹ phẩm Sulwhasoo thì Ohui cũng là một trong những hãng mỹ phẩm cao cấp hàng đầu tại Hàn Quốc hiện nay, được nhiều phụ nữ trên khắp Châu Á yêu thích và tin dùng. Các sản phẩm của hãng thường hướng đến đối tượng khách hàng cao cấp với mức [...]]]></description>
+		
+					<wfw:commentRss>https://tranthingoanh.github.io/NgocAnh/2021/07/04/my-pham-ohui-chinh-hang/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>CHĂM SÓC DA CƠ THỂ VÀ BÍ QUYẾT DƯỠNG DA MỊN MÀNG</title>
+		<link>https://tranthingoanh.github.io/NgocAnh/2021/07/04/cham-soc-da-co-the-va-bi-quyet-duong-da-min-mang/</link>
+					<comments>https://tranthingoanh.github.io/NgocAnh/2021/07/04/cham-soc-da-co-the-va-bi-quyet-duong-da-min-mang/#respond</comments>
+		
+		<dc:creator><![CDATA[ngocanh]]></dc:creator>
+		<pubDate>Sun, 04 Jul 2021 02:50:43 +0000</pubDate>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<guid isPermaLink="false">https://tranthingoanh.github.io/NgocAnh/?p=73</guid>
+
+					<description><![CDATA[Các nàng thường có thói quen chăm sóc kỹ cho da mặt nhưng lại quên chăm chút cho da body. Hôm nay, hãy cùng&#160;Lam Thảo Cosmetics&#160;bắt đầu những bước cơ bản nhất của 1 chu trình dưỡng da body để các nàng có một làn da thật mịn màng đón Tết nhé! 1.Tẩy tế bào [...]]]></description>
+		
+					<wfw:commentRss>https://tranthingoanh.github.io/NgocAnh/2021/07/04/cham-soc-da-co-the-va-bi-quyet-duong-da-min-mang/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Chào tất cả mọi người!</title>
+		<link>https://tranthingoanh.github.io/NgocAnh/2021/07/04/chao-moi-nguoi/</link>
+					<comments>https://tranthingoanh.github.io/NgocAnh/2021/07/04/chao-moi-nguoi/#comments</comments>
+		
+		<dc:creator><![CDATA[ngocanh]]></dc:creator>
+		<pubDate>Sun, 04 Jul 2021 01:17:27 +0000</pubDate>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<guid isPermaLink="false">https://tranthingoanh.github.io/NgocAnh/?p=1</guid>
+
+					<description><![CDATA[Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!]]></description>
+		
+					<wfw:commentRss>https://tranthingoanh.github.io/NgocAnh/2021/07/04/chao-moi-nguoi/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

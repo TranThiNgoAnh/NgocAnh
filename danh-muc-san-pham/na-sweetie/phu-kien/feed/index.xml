@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Phụ kiện &#8211; NA Cosmetic</title>
+	<atom:link href="http://localhost/wp1/danh-muc-san-pham/na-sweetie/phu-kien/feed/" rel="self" type="application/rss+xml" />
+	<link>https://tranthingoanh.github.io/NgocAnh</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Sun, 04 Jul 2021 04:50:47 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Bộ Kẹp Tăm</title>
+		<link>https://tranthingoanh.github.io/NgocAnh/sản%20phẩm/bo-kep-tam/</link>
+					<comments>https://tranthingoanh.github.io/NgocAnh/sản%20phẩm/bo-kep-tam/#respond</comments>
+		
+		<dc:creator><![CDATA[ngocanh]]></dc:creator>
+		<pubDate>Sun, 04 Jul 2021 04:50:46 +0000</pubDate>
+				<guid isPermaLink="false">https://tranthingoanh.github.io/NgocAnh/?post_type=product&#038;p=171</guid>
+
+					<description><![CDATA[<ul>
+ 	<li>Sản phẩm Pre-order</li>
+ 	<li>Đơn hàng đặt trước sẽ được giao từ 7 đến 10 ngày</li>
+</ul>]]></description>
+		
+					<wfw:commentRss>https://tranthingoanh.github.io/NgocAnh/sản%20phẩm/bo-kep-tam/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
